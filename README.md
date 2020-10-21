@@ -1,4 +1,4 @@
-# tf-elasticsearch
+# Terraform Automation for ElasticSearch in AWS with Cognito SAML Auth
 
 Everything you need to setup ElasticSearch service in AWS, including:
 
